@@ -1,7 +1,7 @@
 # MB012
 MB012 is derived from Tiny68K where the 68000 DIP is replaced with 68012 PGA package. The space thus saved is used for 2 I/O expansion connectors.
 
-
+![mb012 rev0](mb012_topview_annotated.jpg)
 ### Features
 - Design derived from Tiny68K
 - MC68012 in PGA package
@@ -22,5 +22,4 @@ CPLD design files
 
 ### Instructions
 - Creating new CF disk
-
-Getting Started with MB012
+- Getting Started with MB012
